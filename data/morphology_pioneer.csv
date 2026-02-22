@@ -1,0 +1,7 @@
+morphology,k,count,per_billion,percentage
+Solitary,1,18121562,9060781.0,98.094986
+Pair,2,173351,86675.5,0.938303
+Triplet,3,1749,874.5,0.009468
+Quadruplet,4,15,7.5,0.000081
+Total_constellations,>=2,175115,87557.5,0.947852
+Total,>=1,18473571,9236785.5,100.000000
